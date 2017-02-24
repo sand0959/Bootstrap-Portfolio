@@ -1,0 +1,124 @@
+body {
+    background-image: url(../images/naturalwhite.png);
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    font-size: 32px;
+    color: white;
+}
+
+.navbar-custom {
+    background-color: white;
+    top: 0px;
+}
+
+.panel-title {
+    text-align: center;
+    color: #4aaaa5;
+    font-size: 25px;
+    background-color: white;
+}
+
+.panel-heading {
+    padding: 0;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #666666;
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-color: #4aaaa5;
+    color: white;
+    text-align: center;
+}
+
+.page-header .custom {
+    border-bottom: 2px;
+    border-color: #666;
+}
+
+.sidebar-custom {
+    border-top: 20px;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    text-decoration: none;
+    top: 10px;
+}
+
+.sidebarcustom {
+    float: right;
+    background-color: white;
+}
+
+.menucustom1 {
+    list-style: none;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.customh1 {
+    color: #4aaaa5;
+    font-size: 25px;
+    background-color: white;
+    border-bottom: 2px;
+    border-color: #666;
+}
+
+.customh2 {
+        color: #4aaaa5;
+    font-size: 25px;
+    background-color: white;
+    border-bottom: 2px;
+    border-color: #666;
+    text-align: center;
+}
+.custombackground {
+    background-color: white;
+    width: 620px;
+    margin: 10px;
+    border-bottom: 2px;
+    border-color: #666;
+    border-style: bold;
+}
+
+.custombackground2 {
+    background-color: white;
+    width: 720px;
+    margin-left: 20px;
+}
+
+.custombackground3 {
+    background-color: white;
+    width: 300px margin-left: 20px;
+}
+
+.menucustom2 {
+    padding-left: 0px;
+}
+
+.btn-custom1 {
+    background-color: #4aaaa5;
+    color: white;
+    position: absolute;
+    top: 75px;
+    left: 50px;
+}
+.btn-custom2 {
+    background-color: #4aaaa5;
+    color: white;
+}
+
+.stickyfooter1 {
+    position: relative;
+    bottom: 0px;
+}
+
+.test1 {
+    width: 420px;
+}
